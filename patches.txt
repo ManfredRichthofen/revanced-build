@@ -36,7 +36,6 @@ seekbar-tapping
 spoof-app-version   
 swipe-controls  
 tablet-mini-player  
-theme  
 downloads
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 video-ads
@@ -51,7 +50,7 @@ microg-support
 hide-cast-button
 hide-create-button
 general-ads
-amoled
+theme
 client-spoof
 return-youtube-dislike 
 hide-watch-in-vr
